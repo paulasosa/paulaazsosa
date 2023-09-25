@@ -1,2 +1,3 @@
 # paulaazsosa
-New blog with all my personal projects
+New blog
+Personal writing projects.
