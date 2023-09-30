@@ -1,2 +1,7 @@
 # paulaazsosa
-New blog with all my personal projects
+New blog
+Personal writing projects.
+
+Todos los cambios realizados en este repositorio podrá ser encontrados en:
+
+https://www.paulaazsosa.com/
